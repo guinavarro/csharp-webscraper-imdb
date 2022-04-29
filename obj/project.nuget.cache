@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U9923cEhzKYCHfRZCD5v8l8BLGMHYnYBhomXTsVPq1FZ5rAl7MewZVTDHTwU7Hk3MKkd7OfLVOa8iwlioxvEuA==",
+  "success": true,
+  "projectFilePath": "G:\\dev\\dotnet\\webscraper\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilherme\\.nuget\\packages\\htmlagilitypack\\1.11.42\\htmlagilitypack.1.11.42.nupkg.sha512"
+  ],
+  "logs": []
+}
